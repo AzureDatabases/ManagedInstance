@@ -2,11 +2,11 @@
 
 This guide is intended to help you prepare for a workshop session to train customers/partners on Azure SQL Database Managed Instance. Managed Instance is a new deployment option with high compatibility with SQL Server and full PaaS benefits.
 
-# Prerequisites
+## Prerequisites
 Presenter skills required: Knowledge of SQL Server, T-SQL, SQL Server Management Studio (SSMS), Azure portal, Azure SQL Database, VNET.
 Labs used in this workshop require booking a minimum of 4 days in advance.
 
-# How to book the labs
+## How to book the labs
 Note: You will need to book the labs for preparation and then again book the labs for the actual training delivery. Labs must be booked 4 DAYS prior to accessing them.
 1.	Go to:  https://www.microsoft.com/handsonlabs/instructorledlabs
 2.	You will be routed to a page to log in using one of the following credentials:
@@ -25,4 +25,8 @@ If you are not a Microsoft Employee or Partner, you will need to have your Micro
 
 One booked, credentials will be emailed to you from the Microsoft Hands-On Labs alias before your session date. For the actual partner delivery, the session will have a unique URL that should be shared with the students to get access to the labs.  Students can access the labs one hour before your session begins and throughout the duration of the training. 
 
-For more information see the lab guildance: https://github.com/AzureDatabases/ManagedInstance/blob/master/Lab%20guidance%20for%20Azure%20SQL%20Database%20Managed%20Instance.pptx
+
+## Accompanying PowerPoint decks
+
+Lab guildance deck: https://github.com/AzureDatabases/ManagedInstance/blob/master/Lab%20guidance%20for%20Azure%20SQL%20Database%20Managed%20Instance.pptx
+Workshop deck: 
