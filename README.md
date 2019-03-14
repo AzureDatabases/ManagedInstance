@@ -25,3 +25,4 @@ If you are not a Microsoft Employee or Partner, you will need to have your Micro
 
 One booked, credentials will be emailed to you from the Microsoft Hands-On Labs alias before your session date. For the actual partner delivery, the session will have a unique URL that should be shared with the students to get access to the labs.  Students can access the labs one hour before your session begins and throughout the duration of the training. 
 
+For more information see the lab guildance: https://github.com/AzureDatabases/ManagedInstance/blob/master/Lab%20guidance%20for%20Azure%20SQL%20Database%20Managed%20Instance.pptx
