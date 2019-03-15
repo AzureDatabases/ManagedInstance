@@ -27,8 +27,9 @@ One booked, credentials will be emailed to you from the Microsoft Hands-On Labs 
 
 
 ## Accompanying documents
+<p><a href="https://github.com/AzureDatabases/ManagedInstance/blob/master/Lab%20guidance%20for%20Azure%20SQL%20Database%20Managed%20Instance.pptx">Lab guidance deck</a></p>
+ 
+<p><a href="https://github.com/AzureDatabases/ManagedInstance/blob/master/Workshop%20guide%20for%20Azure%20SQL%20Database%20Managed%20Instance.docx">Workshop guidance document</a></p>
 
-![Lab guildance deck]( https://github.com/AzureDatabases/ManagedInstance/blob/master/Lab%20guidance%20for%20Azure%20SQL%20Database%20Managed%20Instance.pptx) 
-![Workshop guide](https://github.com/AzureDatabases/ManagedInstance/blob/master/Workshop%20guide%20for%20Azure%20SQL%20Database%20Managed%20Instance.docx)  
-![Workshop deck](https://github.com/AzureDatabases/ManagedInstance/blob/master/Azure%20SQL%20Database%20Managed%20Instance_Technical%20overview.pptx)
+<p><a href="https://github.com/AzureDatabases/ManagedInstance/blob/master/Azure%20SQL%20Database%20Managed%20Instance_Technical%20overview.pptx">Workshop PowerPoint deck</a></p>
 
